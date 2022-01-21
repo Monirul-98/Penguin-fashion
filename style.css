@@ -1,0 +1,21 @@
+body {
+  background-color: #fffbf0;
+}
+.heading-title {
+  font-size: 60px;
+  color: #fabe4c;
+}
+.blue-text {
+  color: #363958;
+}
+.title-jacket {
+  font-size: 48px;
+  color: #363958;
+}
+.heading {
+  padding-bottom: 100px;
+  margin-bottom: 50px;
+}
+.info {
+  width: 78px;
+}
